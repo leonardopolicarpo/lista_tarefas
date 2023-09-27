@@ -33,5 +33,6 @@ module.exports = {
     'react/react-in-jsx-scope': 'off',
     'react/jsx-filename-extension': 'off',
     'react/state-in-constructor': 'off',
+    'react/forbid-prop-types': 'off',
   },
 };
